@@ -1,0 +1,4 @@
+-R _build/default/theories Foo
+theories
+-I _build/default/lib
+lib/qux.v

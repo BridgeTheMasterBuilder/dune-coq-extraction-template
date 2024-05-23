@@ -1,0 +1,7 @@
+(coq.extraction
+  (prelude qux)
+  (extracted_modules qux)
+  (theories Foo))
+
+(library
+ (name dune_coq_extraction_template))
